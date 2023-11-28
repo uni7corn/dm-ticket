@@ -8,6 +8,8 @@
 ## **此项目已失效(2023/07/31注)**
 ![invalid](./imgs/invalid.png)
 
+![mtqq](./imgs/mtqq.jpg)
+
 ## 原理
 
 - 扫码登录: 
