@@ -6,9 +6,8 @@
 
 
 ## **此项目已失效(2023/07/31注)**
-![invalid](./imgs/invalid.png)
 
-![mtqq](./imgs/mtqq.jpg)
+<img src="./imgs/mtqq.jpg" width = "200" height = "400" alt="数量" align=center />
 
 ## 原理
 
