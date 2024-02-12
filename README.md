@@ -9,6 +9,8 @@
 
 # **[交朋友的请看这里](https://faka577.site/buy/2)**
 
+ <img src="./imgs/qr.png" width = "400" height = "400" alt="数量" align=center />
+
 ## 原理
 
 - 扫码登录: 
