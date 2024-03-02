@@ -11,7 +11,7 @@
 
  <img src="./imgs/qr.png" width = "400" height = "400" alt="数量" align=center />
 
-## **[进TG群的点这里或扫码](https://faka577.site/buy/5)** 
+## **[进TG群的点这里](https://faka577.site/buy/5)** 
 
 ## 原理
 
