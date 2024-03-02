@@ -7,9 +7,11 @@
 
 ## **此项目已失效(2023/07/31注)**
 
-# **[交朋友的请看这里](https://faka577.site/buy/2)**
+# **[WX交朋友的请看这里](https://faka577.site/buy/2)**
 
  <img src="./imgs/qr.png" width = "400" height = "400" alt="数量" align=center />
+
+## **[进TG群的点这里或扫码](https://faka577.site/buy/5)** 
 
 ## 原理
 
